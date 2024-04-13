@@ -7,8 +7,8 @@ Curso de Ciencia de Datos con Python, organizado por la IEEE AESS UNI
 - Operadores
 - Tuplas, listas, diccionarios.
 - Estructuras de control:
--   condicionales logicos : if, else
--   bucles: for, while
+  - condicionales logicos : if, else
+  - bucles: for, while
 ### Clase 02: Introducción a Python y entorno de desarrollo.
 - Funciones
 - Módulos
